@@ -1,4 +1,4 @@
-//go:build (linux || aix || zos) && !js && !wasi
+//go:build (linux || aix || zos || illumos) && !js && !wasi
 // +build linux aix zos
 // +build !js
 // +build !wasi
