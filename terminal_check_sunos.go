@@ -1,5 +1,4 @@
-// +build !solaris
-// +build illumos
+// +build illumos solaris
 package logrus
 
 import (
